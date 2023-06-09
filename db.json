@@ -1,0 +1,104 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Soya Health",
+            "color":"green",
+            "price":150,
+            "category":"Fortune oil",
+            "brand":"Fortune",
+            "photo":"images/oil.png"
+        
+
+            
+        },
+    
+        {
+            "id":2,
+            "name":"Besan",
+            "color":"Yellow",
+            "price":125,
+            "category":"Fortune Foods",
+            "brand":"Fortune",
+            "photo":"images/besan.png"
+            
+            
+        },
+
+
+
+        {
+            "id":3,
+            "name":"Chana Sattu",
+            "color":"Yellow",
+            "price":200,
+            "category":"Foods",
+            "brand":"Fortune",
+            "photo":"images/ChanaSattu.png"
+            
+            
+        },
+
+
+
+        {
+            "id":4,
+            "name":"Cotton Lite",
+            "color":"green",
+            "price":320,
+            "category":"oil",
+            "brand":"Fortune",
+            "photo":"images/Cotton-Lite.png"
+            
+            
+        },
+
+        {
+            "id":5,
+            "name":"Kings Pizza",
+            "color":"White",
+            "price":125,
+            "category":"Foods",
+            "brand":"Fortune",
+            "photo":"images/Kings.png"
+        },
+
+
+        {
+            "id":6,
+            "name":"Pav Bhaji",
+            "color":"Green",
+            "price":151,
+            "category":"Foods",
+            "brand":"Fortune",
+            "photo":"images/PavBhaji.png"
+        },
+        
+
+
+        {
+            "id":7,
+            "name":"Pav Bhaji",
+            "color":"Green",
+            "price":151,
+            "category":"Foods",
+            "brand":"Fortune",
+            "photo":"images/PavBhaji.png"
+        },
+
+
+        {
+            "id":8,
+            "name":"Pav Bhaji",
+            "color":"Green",
+            "price":151,
+            "category":"Foods",
+            "brand":"Fortune",
+            "photo":"images/PavBhaji.png"
+        }
+
+
+
+      
+    ]
+}
