@@ -100,5 +100,27 @@
 
 
       
+    ],
+    "contacts":[
+        {
+            "id":1,
+            "name":"Manav Yagnik",
+            "email":"manav@email.com,"
+              
+        },
+        {
+            "id":2,
+            "name":"Sombody 1",
+            "email":"somebody1@email.com,"
+              
+        },
+        {
+            "id":3,
+            "name":"Sombody 2",
+            "email":"somebody2@email.com,"
+              
+        }
+
+
     ]
 }
