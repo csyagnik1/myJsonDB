@@ -1,7 +1,6 @@
 {
   "product": [
     {
-
       "id": 1,
       "name": "Fortune Grounutt Activ Oil",
       "color": "Yellow",
@@ -15,7 +14,7 @@
       "name": "Soya Health",
       "color": "green",
       "price": 150,
-      "category": "Fortune oil",
+      "category": "oil",
       "brand": "Fortune",
       "photo": "images/oil.png"
     },
@@ -24,7 +23,7 @@
       "name": "Besan",
       "color": "Yellow",
       "price": 125,
-      "category": "Fortune Foods",
+      "category": "Foods",
       "brand": "Fortune",
       "photo": "images/besan.png"
     },
@@ -57,30 +56,133 @@
     },
     {
       "id": 7,
-      "name": "Pav Bhaji",
+      "name": "Fortune Cotton Lite Plus",
       "color": "Green",
-      "price": 151,
-      "category": "Foods",
+      "price": 770,
+      "category": "oil",
       "brand": "Fortune",
-      "photo": "images/PavBhaji.png"
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/225x265_Products_0019_Cottonlite-Plus-5-litre-Jar-FOP-latest-July_2.png"
     },
     {
       "id": 8,
-      "name": "Pav Bhaji",
+      "name": "Fortune Kachi Ghani Mustard Oil",
       "color": "Green",
-      "price": 151,
-      "category": "Foods",
+      "price": 654,
+      "category": "oil",
       "brand": "Fortune",
-      "photo": "images/PavBhaji.png"
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/225x265_Products_0010_KGMO_5-Litre-Jar_1.png"
     },
     {
       "id": 9,
+      "name": "Fortune Sunlite Sunflower Oil",
+      "color": "Green",
+      "price": 151,
+      "category": "oil",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/02_0006_Sunlite-5ltr-Jar-Fortfied-new_1.png"
+    },
+    {
+      "id": 10,
+      "name": "Fortune Punjabi Khichdi",
+      "color": "Green",
+      "price": 140,
+      "category": "ReadyToCook",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/Punjabi_Mockup_Pack__1_-removebg-preview.png"
+    },
+    {
+      "id": 11,
+      "name": "Fortune Achaari Khichdi",
+      "color": "Green",
+      "price": 151,
+      "category": "ReadyToCook",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/Achaari-fop_1.png"
+    },
+    {
+      "id": 12,
+      "name": "Fortune Gujarati Khichdi",
+      "color": "Green",
+      "price": 453,
+      "category": "ReadyToCook",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/Gujarati-fop_0.png"
+    },
+    {
+      "id": 13,
+      "name": "Fortune Bengali Bhog Khichuri",
+      "color": "Green",
+      "price": 151,
+      "category": "ReadyToCook",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/Bengali-fop_1.png"
+    },
+    {
+      "id": 14,
+      "name": "Fortune Soya Mini Chunks",
+      "color": "Green",
+      "price": 200,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/02_0021_Soya-Chunks-200g-3D_0.png"
+    },
+    {
+      "id": 15,
+      "name": "Fortune Sugar",
+      "color": "Green",
+      "price": 300,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/1kg-fortune_sugar_FOP-removebg-preview.png"
+    }
+    ,
+    {
+      "id": 16,
+      "name": "Fortune Rawa",
+      "color": "Green",
+      "price": 151,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/3_5.png"
+    }
+    ,
+    {
+      "id": 17,
+      "name": "Fortune Indori Poha",
+      "color": "Green",
+      "price": 232,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/SKU_indori_poha_1.png"
+    }
+    ,
+    {
+      "id": 18,
       "name": "Pav Bhaji",
       "color": "Green",
       "price": 151,
       "category": "Foods",
       "brand": "Fortune",
-      "photo": "images/PavBhaji.png"
+      "photo": "ihttps://www.fortunefoods.com/wp-content/uploads/2022/12/SKU_indori_poha_1.png"
+    }
+    ,
+    {
+      "id": 19,
+      "name": "Fortune Biryani Special",
+      "color": "Green",
+      "price": 700,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/01_0019_Biryani-Special-1-Kg-01-FOP_1.png"
+    },
+    {
+      "id": 20,
+      "name": "Fortune Soya Health Oil",
+      "color": "Green",
+      "price": 151,
+      "category": "oil",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/SoyaHealthOil_.png"
     }
   ],
   "contacts": [
