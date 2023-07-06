@@ -1,126 +1,136 @@
 {
-    "product":[
-        {
-            "id":1,
-            "name":"Soya Health",
-            "color":"green",
-            "price":150,
-            "category":"Fortune oil",
-            "brand":"Fortune",
-            "photo":"images/oil.png"
-        
+  "product": [
+    {
 
-            
-        },
-    
-        {
-            "id":2,
-            "name":"Besan",
-            "color":"Yellow",
-            "price":125,
-            "category":"Fortune Foods",
-            "brand":"Fortune",
-            "photo":"images/besan.png"
-            
-            
-        },
-
-
-
-        {
-            "id":3,
-            "name":"Chana Sattu",
-            "color":"Yellow",
-            "price":200,
-            "category":"Foods",
-            "brand":"Fortune",
-            "photo":"images/ChanaSattu.png"
-            
-            
-        },
-
-
-
-        {
-            "id":4,
-            "name":"Cotton Lite",
-            "color":"green",
-            "price":320,
-            "category":"oil",
-            "brand":"Fortune",
-            "photo":"images/Cotton-Lite.png"
-            
-            
-        },
-
-        {
-            "id":5,
-            "name":"Kings Pizza",
-            "color":"White",
-            "price":125,
-            "category":"Foods",
-            "brand":"Fortune",
-            "photo":"images/Kings.png"
-        },
-
-
-        {
-            "id":6,
-            "name":"Pav Bhaji",
-            "color":"Green",
-            "price":151,
-            "category":"Foods",
-            "brand":"Fortune",
-            "photo":"images/PavBhaji.png"
-        },
-        
-
-
-        {
-            "id":7,
-            "name":"Pav Bhaji",
-            "color":"Green",
-            "price":151,
-            "category":"Foods",
-            "brand":"Fortune",
-            "photo":"images/PavBhaji.png"
-        },
-
-
-        {
-            "id":8,
-            "name":"Pav Bhaji",
-            "color":"Green",
-            "price":151,
-            "category":"Foods",
-            "brand":"Fortune",
-            "photo":"images/PavBhaji.png"
-        }
-
-
-
-      
-    ],
-    "contacts":[
-        {
-            "id":1,
-            "name":"Manav Yagnik",
-            "email":"manav@email.com,"
-              
-        },
-        {
-            "id":2,
-            "name":"Sombody 1",
-            "email":"somebody1@email.com,"
-              
-        },
-        {
-            "id":3,
-            "name":"Sombody 2",
-            "email":"somebody2@email.com,"
-              
-        }
-
-
-    ]
+      "id": 1,
+      "name": "Fortune Grounutt Activ Oil",
+      "color": "Yellow",
+      "price": 650,
+      "category": "oil",
+      "brand": "Fortune",
+      "photo": "https://www.fortunefoods.com/wp-content/uploads/2022/12/225x265_Products_0013_Groundnut-Refined-Goldnut-5litre-Jar-F_5.png"
+    },
+    {
+      "id": 2,
+      "name": "Soya Health",
+      "color": "green",
+      "price": 150,
+      "category": "Fortune oil",
+      "brand": "Fortune",
+      "photo": "images/oil.png"
+    },
+    {
+      "id": 3,
+      "name": "Besan",
+      "color": "Yellow",
+      "price": 125,
+      "category": "Fortune Foods",
+      "brand": "Fortune",
+      "photo": "images/besan.png"
+    },
+    {
+      "id": 4,
+      "name": "Chana Sattu",
+      "color": "Yellow",
+      "price": 200,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "images/ChanaSattu.png"
+    },
+    {
+      "id": 5,
+      "name": "Cotton Lite",
+      "color": "green",
+      "price": 320,
+      "category": "oil",
+      "brand": "Fortune",
+      "photo": "images/Cotton-Lite.png"
+    },
+    {
+      "id": 6,
+      "name": "Kings Pizza",
+      "color": "White",
+      "price": 125,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "images/Kings.png"
+    },
+    {
+      "id": 7,
+      "name": "Pav Bhaji",
+      "color": "Green",
+      "price": 151,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "images/PavBhaji.png"
+    },
+    {
+      "id": 8,
+      "name": "Pav Bhaji",
+      "color": "Green",
+      "price": 151,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "images/PavBhaji.png"
+    },
+    {
+      "id": 9,
+      "name": "Pav Bhaji",
+      "color": "Green",
+      "price": 151,
+      "category": "Foods",
+      "brand": "Fortune",
+      "photo": "images/PavBhaji.png"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Manav Yagnik",
+      "email": "manav@email.com,"
+    },
+    {
+      "id": 2,
+      "name": "Sombody 1",
+      "email": "somebody1@email.com,"
+    },
+    {
+      "id": 3,
+      "name": "Sombody 2",
+      "email": "somebody2@email.com,"
+    },
+    {
+      "uname": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "uname": "csy",
+      "email": "csy",
+      "id": 5
+    },
+    {
+      "uname": "csy",
+      "email": "csy",
+      "id": 6
+    },
+    {
+      "uname": "abcd",
+      "email": "abc@mail",
+      "message": "my message",
+      "id": 7
+    },
+    {
+      "uname": "abcd",
+      "email": "abc@mail",
+      "message": "my message",
+      "id": 8
+    },
+    {
+      "uname": "aaaa",
+      "email": "abc@mail",
+      "message": "my message",
+      "id": 9
+    }
+  ]
 }
